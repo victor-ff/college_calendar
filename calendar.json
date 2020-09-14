@@ -1,0 +1,62 @@
+{
+    "MATERIAS": {
+        "PERCEPCAO VISUAL: TEORIA E PSICOLOGIA DAS CORES": {
+            "numero_de_unidades": 4,
+            "nota_maxima": 10,
+            "notas_das_unidades": [2, 2.5, 0, 0],
+            "mes_da_materia": ["Agosto"],
+            "ano_da_materia": ["2020"],
+            "data_da_avaliacao": {
+                "Setembro": [28, 29, 30],
+                "Outubro": [1, 2, 3]
+            },
+            "status_de_aprovacao": "Pendente de analise"
+        },
+        "INFORMATICA APLICADA": {
+            "numero_de_unidades": 2,
+            "nota_maxima": 10,
+            "notas_das_unidades": [5, 5],
+            "mes_da_materia": ["Agosto"],
+            "ano_da_materia": ["2020"],
+            "data_da_avaliacao": {
+                "Setembro": [28, 29, 30],
+                "Outubro": [1, 2, 3]
+            },
+            "status_de_aprovacao": "Pendente de analise"
+        },
+        "HISTORIA DA ARTE": {
+            "numero_de_unidades": 4,
+            "nota_maxima": 10,
+            "notas_das_unidades": [2.25, 0, 0, 0],
+            "mes_da_materia": ["Setembro"],
+            "ano_da_materia": ["2020"],
+            "data_da_avaliacao": {
+                "Setembro": [28, 29, 30],
+                "Outubro": [1, 2, 3]
+            },
+            "status_de_aprovacao": "Pendente de analise"
+        },
+        "DESIGN DE INTERIORES (REPRESENTACAO)": {
+            "numero_de_unidades": 4,
+            "nota_maxima": 10,
+            "notas_das_unidades": [0, 0, 0, 0],
+            "mes_da_materia": ["Outubro"],
+            "ano_da_materia": ["2020"],
+            "data_da_avaliacao": {
+                "Novembro": [23, 24, 25, 26, 27, 28]
+            },
+            "status_de_aprovacao": "Pendente de analise"
+        },
+        "MATERIAIS DE ACABAMENTO E CONSTRUCAO": {
+            "numero_de_unidades": 4,
+            "nota_maxima": 10,
+            "notas_das_unidades": [0, 0, 0, 0],
+            "mes_da_materia": ["Outubro", "Novembro"],
+            "ano_da_materia": ["2020"],
+            "data_da_avaliacao": {
+                "Novembro": [23, 24, 25, 26, 27, 28]
+            },
+            "status_de_aprovacao": "Pendente de analise"
+        }
+    }
+}
